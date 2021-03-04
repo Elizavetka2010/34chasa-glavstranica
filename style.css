@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #FFEF52;
+}
+
+h1, h2, h3, p{
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+    background-color: #FFEF52;
+}
+
+ul {
+    url:();
+}
+
+.wow {
+    background-color: #BB8BFF;
+    text-decoration: none ;
+    padding: 15px;
+    border: 2px solid ;
+    margin: 10px ;
+    border-radius: 20px;
+}
+
+nav {
+    font-size: 15px;
+    text-align: center;
+}
+
+nav a {
+    background-color: #FFE700;
+    text-decoration: none ;
+    padding: 15px;
+    border: 2px solid ;
+    margin: 10px ;
+    border-radius: 20px;
+}
+
+h1 {
+    color: #CFBB00;
+}
+
+h2 {
+    color: #E2CC00;
+}
+
+h3 {
+    color: #0029FF;
+}
+
+footer a {
+    font-size: 20px;
+    background-color: #BB8BFF;
+    text-decoration: none ;
+    padding: 15px;
+    border: 2px solid ;
+    margin: 10px ;
+    border-radius: 20px;   
+}
+
+footer {
+    font-size: 20px;
+}
